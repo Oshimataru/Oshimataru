@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Oshimataru
+- 👋 Hi, I’m @Aditya Tachtode
 - 👀 I’m interested in codeiing
 - 🌱 I’m currently learning BCA
 - 💞️ I’m looking to collaborate on to learn codeing
